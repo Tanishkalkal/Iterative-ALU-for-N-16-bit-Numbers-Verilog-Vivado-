@@ -58,7 +58,7 @@ ALU_Project/
 - **Tanish kalkal**
 - B.Tech ECE — KIET Group of Institutions
 - [[LinkedIn Profile Link](https://www.linkedin.com/in/tanish-kalkal-153824328/)]
-- [GitHub Profile Link]
+- [[GitHub Profile Link](https://github.com/Tanishkalkal)]
 
 ---
 
